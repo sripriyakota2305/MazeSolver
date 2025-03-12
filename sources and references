@@ -1,0 +1,16 @@
+📜 Sources of Code (Maze Solving Using BFS in Java)
+GeeksforGeeks - Breadth-First Search Algorithm
+Explanation of BFS and its applications in pathfinding.
+Link: https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+
+Medium - Solving Maze Using BFS Algorithm
+Demonstrates how BFS is used to traverse a grid/maze to find the shortest path.
+Link: https://medium.com/@luthfisauqi17_68455/artificial-intelligence-search-problem-solve-maze-using-breadth-first-search-bfs-algorithm-255139c6e1a3
+
+Stack Overflow - BFS for Pathfinding in a Grid
+Various discussions on how to implement BFS in Java for solving mazes.
+Link: https://stackoverflow.com/questions/29801413/shortest-path-in-a-2d-array-with-bfs
+
+Java Swing GUI Development (For graphical user interface)
+Official Oracle Java Tutorials explaining how to use Java Swing.
+Link: https://docs.oracle.com/javase/tutorial/uiswing/
